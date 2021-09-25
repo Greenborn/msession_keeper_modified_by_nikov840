@@ -1,0 +1,82 @@
+Manifest-Version: 1.0
+
+Name: background.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ftpjBKZuicD5u8xdhNVbYA==
+SHA1-Digest: raOE/9uPyRzZx6xV1RIHaqEutOQ=
+
+Name: manifest.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: yrEnoJcsK7+T910iGA3Siw==
+SHA1-Digest: xjXAdoTrUTmwunp+02nWlf0FXnY=
+
+Name: _locales/de/messages.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DBAIkIeYfNq0O4krZKw3lQ==
+SHA1-Digest: ipTtVsmBMDPU5Sqw+m3NHVjhzek=
+
+Name: _locales/en/messages.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: b1mOWcBnu8jd/7mhg/tAAw==
+SHA1-Digest: s5RNPiUDdvMKCfPBp4nbZ/IseTc=
+
+Name: _locales/fr/messages.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2AipgArE3QRVyj0vF1KsjQ==
+SHA1-Digest: n+vwNSzNrdD+nrk2oucQZJ8sN7s=
+
+Name: _locales/pl/messages.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KaSPgOjsyaxz0Po3b59JiA==
+SHA1-Digest: 4VqSm7dSNQfUDakcCnnLXoiAof0=
+
+Name: _locales/zh_CN/messages.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: oYeNNOpb7ja4fqdQM2Yxxw==
+SHA1-Digest: NcRA87xsTmmrAaNjde4nz60no74=
+
+Name: css/bootstrap.min.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7Du1KgDhdqcYHUVN/66iGQ==
+SHA1-Digest: ZSfYvz4ek2i6uMe2D1a8Afo6/Wg=
+
+Name: icons/16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ZlQI49yiwN6JSg6xDoKwqA==
+SHA1-Digest: ItBuF7FNpHRvNmSnvJLBgxjWXrw=
+
+Name: icons/32.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UZcqqga/W1TNX+1W53iDMA==
+SHA1-Digest: xNTwbZ/Dvm2Hwub/qMtcgBd0wIs=
+
+Name: icons/48.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fFEWLop60uswDz1d/M2SCQ==
+SHA1-Digest: NUZtEOvd5O97QizqoFMIPoT+hxs=
+
+Name: icons/64.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0bJgC7pR33f4axgen7ghzg==
+SHA1-Digest: KbKRkktOsGDnI9/3p5RSZUFl2XI=
+
+Name: options/options.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ncxDUb9Gw86x80HdgJ/CGA==
+SHA1-Digest: kFdhpfTYVSJwe8r3drrzof8SJaE=
+
+Name: options/options.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: NPzGWK3q7hYvuigh28y9bA==
+SHA1-Digest: iDwT16IWb/MFKQk7LZnpUdjo3kg=
+
+Name: popup/popup.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HNvkzCvha88qF4YIpkZCfA==
+SHA1-Digest: 0aOpUeKnJySyw6CinNAPN/eb3KE=
+
+Name: popup/popup.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3zvU2Fx+0DeMYSe30/RC/Q==
+SHA1-Digest: idslK/hWoD5LiqjL4VoZBdvNG7o=
+
